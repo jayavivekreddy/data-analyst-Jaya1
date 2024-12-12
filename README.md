@@ -69,7 +69,7 @@ This project successfully demonstrated the use of cloud computing and data analy
 Future work could involve extending the analysis to include additional datasets, such as demographic information or historical data on by-law compliance. Further, predictive analytics could be employed to forecast trends and identify potential areas of concern before they become significant issues.
 
 ## Acknowledgments
-This project was completed as part of a cloud computing class assignment. Special thanks to Professor Mahmood Mortazavi Dehkordi for the guidance and resources provided.
+This project was completed as part of a cloud computing class assignment. Special thanks to **Professor Mahmood Mortazavi Dehkordi** for the guidance and resources provided.
 
 ## Contact
 For any questions or further information, please contact Jaya Vivek Reddy at [jayavivek123@gmail.com](mailto:jayavivek123@gmail.com).
